@@ -4,7 +4,7 @@ body{font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif}h1,h2,h3,h4,h5
     background-image: url('../img/searchicon.png'); /* 搜索按钮 */
     background-position: 10px 12px; /* 定位搜索按钮 */
     background-repeat: no-repeat; /* 不重复图片 */
-    width: 100%;
+    width: 50%;
     font-size: 16px;
     padding: 12px 20px 12px 40px;
     border: 1px solid #ddd;
