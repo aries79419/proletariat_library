@@ -4540,7 +4540,7 @@
  
   // 循环表格每一行，查找匹配项
   for (i = 0; i < tr.length; i++) {
-    for(x = 0; x <= 9; x++){
+    for(x = 0; x < 9; x++){
       td = tr[i].getElementsByTagName("td")[x];
       if (td) {
         if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
