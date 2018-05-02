@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://library-phoenix000.hashbase.io/</loc>
+  <lastmod>2018-05-02T13:39:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://library-phoenix000.hashbase.io/en-index.html</loc>
+  <lastmod>2018-05-02T13:39:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://library-phoenix000.hashbase.io/My_library_table.html</loc>
+  <lastmod>2018-05-02T13:39:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://library-phoenix000.hashbase.io/Articles_table.html</loc>
+  <lastmod>2018-05-02T13:39:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://library-phoenix000.hashbase.io/singapore-malaysia_table.html</loc>
+  <lastmod>2018-05-02T13:39:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://library-phoenix000.hashbase.io/about.html</loc>
+  <lastmod>2018-05-02T13:39:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://library-phoenix000.hashbase.io/index.html</loc>
+  <lastmod>2018-05-02T13:39:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
